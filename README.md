@@ -1,4 +1,4 @@
-# 🗓️ Intelligent Course Scheduler
+# 🗓️ GeneScheduler
 
 ## 📚 Project Overview
 
